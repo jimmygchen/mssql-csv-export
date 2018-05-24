@@ -1,0 +1,7 @@
+{
+  "name": "export-mssql-backup-to-csv",
+  "version": "1.0.0",
+  "description": "Scripts to restore a mssql backup and export all tables to csv.",
+  "author": "Jimmy Chen",
+  "dependencies": {}
+}
